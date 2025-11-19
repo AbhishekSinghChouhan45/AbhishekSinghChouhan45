@@ -70,6 +70,11 @@ Passionate about distributed systems, efficient APIs, and writing code that stan
 </div>
 
 ---
+<div align="center" style="padding: 15px; border: 1px solid #FDC500; border-radius: 8px; width: 80%;">
+  <span style="color:#FDC500; font-size:18px; font-weight:600;">
+    “You either die a hero, or live long enough to see yourself become the villain.”
+  </span>
+</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer"/>
