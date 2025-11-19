@@ -64,9 +64,9 @@ Passionate about distributed systems, efficient APIs, and writing code that stan
 ### 🦇 Batcomputer Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbhishekSinghChouhan45&show_icons=true&bg_color=000000&title_color=F7E018&icon_color=F7E018&text_color=ffffff&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AbhishekSinghChouhan45&show_icons=true&count_private=true&include_all_commits=true&bg_color=000000&title_color=F7E018&icon_color=F7E018&text_color=ffffff&hide_border=true" height="160" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekSinghChouhan45&layout=compact&bg_color=000000&title_color=F7E018&text_color=ffffff&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekSinghChouhan45&layout=compact&count_private=true&include_all_commits=true&bg_color=000000&title_color=F7E018&text_color=ffffff&hide_border=true" height="160" />
 </div>
 
 ---
